@@ -1,29 +1,40 @@
-# tictactoe
+# TicTacToe :clipboard:
 
-This template should help get you started developing with Vue 3 in Vite.
+TicTacToe è un'applicazione che permette di giocare al famoso gioco TRIS **Vue.js**. 
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Tecnologie utilizzate
 
-## Customize configuration
+- **Vue.js**
+- **JavaScript**
+- **HTML/CSS**
+- **Pinia**: Per il passaggio di dati tra i componenti.
+- **TailwindCss**: Per stilizzare il progetto
 
-See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Project Setup
+## Installazione
 
-```sh
-npm install
-```
+1. Clona il repository:
+    ```bash
+   git clone https://github.com/Salvo-25/TaskTracker.git
+2. Installa le dipendenze:
+   ```bash
+   npm istall
+3. Avvia il server di sviluppo:
+   ```bash
+   ng serve dev
+---
 
-### Compile and Hot-Reload for Development
+## Contatti🌐  
 
-```sh
-npm run dev
-```
+- **LinkedIn**  : [Salvatore Di Dio](https://www.linkedin.com/in/salvatore-di-dio-/)
 
-### Compile and Minify for Production
+- **Email**  : didiosalvatore25@gmail.com
 
-```sh
-npm run build
-```
+## Ringraziamenti🙌 
+
+Grazie per aver preso il tempo di leggere il mio README e per il tuo interesse nel progetto! Se hai domande o suggerimenti non esitare a contattarmi
+
+
+
+  
